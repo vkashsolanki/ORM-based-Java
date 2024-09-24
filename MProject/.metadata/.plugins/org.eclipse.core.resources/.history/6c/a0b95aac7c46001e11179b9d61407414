@@ -1,0 +1,5 @@
+package com.smartcontact.repository;
+
+public interface UserRepository {
+
+}

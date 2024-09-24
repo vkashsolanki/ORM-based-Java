@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Home:Page</title>
+#hname{
+<base href="">
+}
+</head>
+<body>
+<h1 class="container" text-primary id="hname">this is first page</h1>
+</body>
+</html>

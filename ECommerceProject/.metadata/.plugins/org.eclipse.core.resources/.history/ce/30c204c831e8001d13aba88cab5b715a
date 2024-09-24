@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Home:Page</title>
+
+</head>
+#hname{
+<br>
+<textarea rows="10" cols="2" enterkeyhint="Click here "></textarea>
+}
+<body>
+<h1 class="container" text-primary id="hname">this is first page</h1>
+</body>
+</html>

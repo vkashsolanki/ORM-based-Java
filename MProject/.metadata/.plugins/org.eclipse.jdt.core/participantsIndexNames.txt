@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Users\91886\eclipse-workspace\MProject\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\136228919.index
+\MyKart\src\main\java
+C:\Users\91886\eclipse-workspace\MProject\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3509579907.index
+\MyKart\src\main\resources

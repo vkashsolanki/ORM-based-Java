@@ -1,0 +1,17 @@
+package com.smartcontact.entity;
+
+public class Contact {
+	
+	private int cId;
+	private String cFirstName;
+	private String cLastName;
+	private String cPhone;
+	private String cEmail;
+	private String cWork;
+	private String cImage;
+	private String cDecriptions;
+	
+	
+	
+
+}

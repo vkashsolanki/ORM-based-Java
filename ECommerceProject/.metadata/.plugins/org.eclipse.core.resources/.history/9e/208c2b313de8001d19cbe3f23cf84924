@@ -1,0 +1,16 @@
+package com.ekart.helper;
+
+import org.hibernate.SessionFactory;
+
+public class FactoryProvider {
+	
+	private static SessionFactory factory;
+	
+	
+	public static SessionFactory getSessionFactory()
+	{
+		
+		
+	}
+
+}
